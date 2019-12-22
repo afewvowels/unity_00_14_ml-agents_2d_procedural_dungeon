@@ -3,7 +3,22 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - walls
+  - pickup
+  - chest
+  - goal
+  - enemyeasy
+  - enemymedium
+  - enemyhard
+  - dungeonroot
+  - default
+  - collideable
+  - hazard
+  - pit
+  - dungeontilemaproot
+  - agentspawn
+  - spawn
   layers:
   - Default
   - TransparentFX
@@ -13,7 +28,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - BlockingLayer
   - 
   - 
   - 
@@ -40,4 +55,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Items
+    uniqueID: 3524496401
+    locked: 0
+  - name: Enemies
+    uniqueID: 230971047
+    locked: 0
+  - name: Agent
+    uniqueID: 3148611123
     locked: 0

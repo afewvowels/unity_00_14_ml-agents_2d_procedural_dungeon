@@ -14,6 +14,11 @@
 /[Aa]ssets/16x16 Dungeon Tileset/
 /[Aa]ssets/[Mm]odels/
 /[Aa]ssets/[Ss]ummaries/
+/[Aa]ssets/Resources/
+/[Aa]ssets/MegaPixel_Castle/
+/[Aa]ssets/Bitgem/
+/[Aa]ssets/[Gg]raphics/[Tt]iles/
+/[Aa]ssets/[Gg]raphics/[Tt]ilesets/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
